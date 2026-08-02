@@ -1,5 +1,7 @@
 import sys
 import os
+import asyncio
+import uuid
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import streamlit as st
@@ -12,6 +14,7 @@ from backend.agents.exporter import (
     generate_teacher_guide_html,
     generate_assessment_book_html
 )
+from backend.pipeline import PipelineJob, run_pipeline
 
 BACKEND_URL = os.getenv("BACKEND_URL", "http://localhost:8000")
 
@@ -230,7 +233,7 @@ with st.sidebar:
                     f"{BACKEND_URL}/upload",
                     files=files,
                     data=form_data,
-                    timeout=30
+                    timeout=5
                 )
 
                 if response.status_code == 200:
@@ -239,6 +242,28 @@ with st.sidebar:
                     st.rerun()
                 else:
                     st.error(f"Upload failed: {response.text}")
+                    st.session_state.processing = False
+            except (requests.exceptions.ConnectionError, requests.exceptions.Timeout):
+                job_id = str(uuid.uuid4())
+                upload_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "uploads")
+                os.makedirs(upload_dir, exist_ok=True)
+                file_path = os.path.join(upload_dir, f"{job_id}_{uploaded_file.name}")
+                with open(file_path, "wb") as f:
+                    f.write(uploaded_file.getvalue())
+
+                job = PipelineJob(job_id, file_path, form_data)
+                
+                async def run_direct_job():
+                    await run_pipeline(job)
+
+                asyncio.run(run_direct_job())
+
+                if job.result:
+                    st.session_state.tkp_data = job.result
+                    st.session_state.processing = False
+                    st.rerun()
+                else:
+                    st.error(f"Pipeline error: {job.error}")
                     st.session_state.processing = False
             except Exception as e:
                 st.error(f"Connection error: {e}")
