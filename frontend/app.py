@@ -252,14 +252,41 @@ with st.sidebar:
                     f.write(uploaded_file.getvalue())
 
                 job = PipelineJob(job_id, file_path, form_data)
-                
-                async def run_direct_job():
-                    await run_pipeline(job)
 
-                asyncio.run(run_direct_job())
+                st.markdown("---")
+                st.markdown("### Processing Pipeline")
+                progress_bar = st.progress(0)
+                status_text = st.empty()
+                stage_log = st.empty()
+                log_messages = []
+
+                async def run_and_stream():
+                    async def ui_consumer():
+                        while True:
+                            try:
+                                item = await asyncio.wait_for(job.queue.get(), timeout=0.1)
+                                if item is None:
+                                    break
+                                p = item.get("progress", 0)
+                                msg = item.get("message", "")
+                                stg = item.get("stage", "")
+                                progress_bar.progress(min(p, 100))
+                                status_text.markdown(f"**Stage:** `{stg}` | **Progress:** {p}% | {msg}")
+                                log_messages.append(f"[{stg}] {msg}")
+                                stage_log.markdown("\n\n".join(log_messages[-5:]))
+                            except asyncio.TimeoutError:
+                                if job.status in ["completed", "failed"] and job.queue.empty():
+                                    break
+
+                    await asyncio.gather(run_pipeline(job), ui_consumer())
+
+                asyncio.run(run_and_stream())
 
                 if job.result:
-                    st.session_state.tkp_data = job.result
+                    res = job.result
+                    if hasattr(res, "model_dump"):
+                        res = res.model_dump()
+                    st.session_state.tkp_data = json.loads(json.dumps(res, default=str))
                     st.session_state.processing = False
                     st.rerun()
                 else:
@@ -352,6 +379,13 @@ if st.session_state.processing and st.session_state.job_id:
 
 if st.session_state.tkp_data:
     tkp = st.session_state.tkp_data
+    if hasattr(tkp, "model_dump"):
+        tkp = tkp.model_dump()
+    elif not isinstance(tkp, dict):
+        try:
+            tkp = json.loads(json.dumps(tkp, default=str))
+        except Exception:
+            pass
 
     tabs = st.tabs([
         "Overview",
