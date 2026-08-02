@@ -1,0 +1,75 @@
+Chapter 5: Newton's Laws of Motion
+
+5.1 Introduction to Forces
+A force is a push or pull on an object. Forces can cause objects to start moving, stop moving, or change direction. The SI unit of force is the Newton (N), named after Sir Isaac Newton.
+
+5.2 Newton's First Law (Law of Inertia)
+An object at rest stays at rest, and an object in motion stays in motion with the same speed and in the same direction, unless acted upon by an unbalanced force. This property of objects to resist changes in their state of motion is called inertia. The mass of an object is a measure of its inertia.
+
+Example: When a bus suddenly starts moving, passengers tend to fall backward because their body was at rest and tends to remain at rest due to inertia.
+
+5.3 Newton's Second Law of Motion
+The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass.
+
+Formula: F = ma
+Where:
+- F = Force (in Newtons, N)
+- m = mass (in kilograms, kg)
+- a = acceleration (in meters per second squared, m/s²)
+
+This means a larger force produces a larger acceleration, and a heavier object requires more force to achieve the same acceleration.
+
+Example: It is easier to push an empty shopping cart than a full one because the full cart has more mass.
+
+5.4 Newton's Third Law of Motion
+For every action, there is an equal and opposite reaction. When object A exerts a force on object B, object B simultaneously exerts a force equal in magnitude but opposite in direction on object A.
+
+These forces are called action-reaction pairs. Important: action and reaction forces act on different objects.
+
+Examples:
+- When you walk, your feet push the ground backward (action), and the ground pushes your feet forward (reaction).
+- A rocket propels itself forward by expelling gas backward.
+- When you sit on a chair, your body pushes the chair down (action), and the chair pushes your body up (reaction).
+
+5.5 Free Body Diagrams
+A free body diagram (FBD) is a diagram showing all forces acting on an object. Steps to draw:
+1. Identify the object
+2. Draw the object as a point or simple shape
+3. Draw arrows for each force, showing direction and relative magnitude
+4. Label each force
+
+Common forces in FBDs:
+- Weight (W = mg, downward)
+- Normal force (N, perpendicular to surface)
+- Friction (f, opposite to motion)
+- Applied force (F, in direction of push/pull)
+- Tension (T, along the string/rope)
+
+5.6 Applications
+Newton's laws are used in:
+- Engineering: designing bridges, buildings, and vehicles
+- Sports: understanding how athletes move and apply force
+- Space exploration: rocket propulsion and satellite orbits
+- Medicine: biomechanics and physical therapy
+- Daily life: driving, walking, playing sports
+
+5.7 Solved Problems
+
+Problem 1: A 5 kg object is pushed with a force of 20 N. Find the acceleration.
+Solution: F = ma, so a = F/m = 20/5 = 4 m/s²
+
+Problem 2: A 1000 kg car accelerates at 2 m/s². What is the net force?
+Solution: F = ma = 1000 × 2 = 2000 N
+
+Problem 3: Two forces of 10 N and 6 N act on an object in opposite directions. Find the net force and direction.
+Solution: Net force = 10 - 6 = 4 N, in the direction of the 10 N force.
+
+5.8 Summary
+- Force causes acceleration
+- Newton's First Law: objects resist changes in motion (inertia)
+- Newton's Second Law: F = ma
+- Newton's Third Law: every action has an equal and opposite reaction
+- Free body diagrams help visualize forces
+- These laws apply to everything from atoms to galaxies
+
+Prerequisites: Understanding of speed, velocity, acceleration, and basic algebra.

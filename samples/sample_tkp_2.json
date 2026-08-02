@@ -1,0 +1,1202 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-08-02T17:13:22.929470",
+  "source_document": "french_revolution_sample.txt",
+  "document_structure": {
+    "filename": "french_revolution_sample.txt",
+    "file_type": "TXT",
+    "total_pages": 21,
+    "word_count": 581,
+    "detected_language": "English",
+    "raw_text": "Chapter 3: The French Revolution (1789-1799)\n\n3.1 Introduction\nThe French Revolution was a period of radical political and societal change in France that began with the Estates General of 1789 and ended with the formation of the French Consulate in November 1799. It fundamentally altered the course of modern history, triggering the decline of absolute monarchies and replacing them with republics and liberal democracies.\n\n3.2 Causes of the French Revolution\n\nPolitical Causes:\nFrance was ruled by an absolute monarchy under King Louis XVI. The king had unlimited power and the common people had no say in governance. The Estates General had not been called since 1614.\n\nSocial Causes:\nFrench society was divided into three estates:\n- First Estate: Clergy (owned 10% of land, paid no taxes)\n- Second Estate: Nobility (owned 25% of land, paid almost no taxes)\n- Third Estate: Common people including peasants, bourgeoisie, and urban workers (97% of population, paid all taxes)\n\nThis inequality created deep resentment among the Third Estate.\n\nEconomic Causes:\n- France was bankrupt due to expensive wars (including support for American Revolution)\n- Poor harvests led to bread shortages and rising prices\n- Heavy taxation on the poor while the rich were exempt\n- The government spent lavishly on the Palace of Versailles\n\nIntellectual Causes:\nEnlightenment thinkers challenged traditional authority:\n- John Locke: natural rights (life, liberty, property)\n- Jean-Jacques Rousseau: social contract theory\n- Voltaire: freedom of speech and religion\n- Montesquieu: separation of powers\n\n3.3 Key Events\n\nThe Storming of the Bastille (July 14, 1789):\nA mob attacked the Bastille fortress in Paris, a symbol of royal authority. This event marked the beginning of the revolution and July 14 is now France's national day.\n\nThe Declaration of the Rights of Man and Citizen (August 1789):\nThis document proclaimed that all men are born free and equal in rights. Key rights included liberty, property, security, and resistance to oppression. It was inspired by the American Declaration of Independence.\n\nThe Women's March on Versailles (October 1789):\nThousands of women marched to Versailles demanding bread. They forced the royal family to move to Paris, symbolizing the power of the people.\n\nThe Reign of Terror (1793-1794):\nLed by Maximilien Robespierre and the Committee of Public Safety, thousands of perceived enemies of the revolution were executed by guillotine. An estimated 16,000-40,000 people were killed during this period.\n\n3.4 Important Concepts\n\nSovereignty: The idea that ultimate political authority rests with the people, not the king.\n\nDemocracy: A system of government where power is held by the people through elected representatives.\n\nRepublic: A form of government where the country is considered a public matter, not the private property of rulers.\n\nNationalism: A sense of identity and loyalty to one's nation, which grew strongly during the revolution.\n\n3.5 Impact and Legacy\n- End of feudalism and absolute monarchy in France\n- Spread of democratic ideals across Europe\n- Inspired revolutions in Latin America, Haiti, and other regions\n- The Napoleonic Code influenced legal systems worldwide\n- Established the principle that government derives authority from citizens\n- Led to the rise of Napoleon Bonaparte\n\n3.6 Summary\nThe French Revolution transformed France from an absolute monarchy to a republic. It was caused by social inequality, economic crisis, and Enlightenment ideas. Key events include the Storming of the Bastille, the Declaration of Rights, and the Reign of Terror. Its legacy includes the spread of democracy and human rights worldwide.\n\nPrerequisites: Basic understanding of European history, medieval feudal system, and the concept of monarchy.\n",
+    "sections": [
+      {
+        "heading": "Chapter 3: The French Revolution (1789-1799)",
+        "content": "Chapter 3: The French Revolution (1789-1799)",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "3.1 Introduction",
+        "content": "The French Revolution was a period of radical political and societal change in France that began with the Estates General of 1789 and ended with the formation of the French Consulate in November 1799. It fundamentally altered the course of modern history, triggering the decline of absolute monarchies and replacing them with republics and liberal democracies.",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "3.2 Causes of the French Revolution",
+        "content": "3.2 Causes of the French Revolution",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "Political Causes:",
+        "content": "France was ruled by an absolute monarchy under King Louis XVI. The king had unlimited power and the common people had no say in governance. The Estates General had not been called since 1614.",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "Social Causes:",
+        "content": "French society was divided into three estates:\n- First Estate: Clergy (owned 10% of land, paid no taxes)\n- Second Estate: Nobility (owned 25% of land, paid almost no taxes)\n- Third Estate: Common people including peasants, bourgeoisie, and urban workers (97% of population, paid all taxes)",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "This inequality created deep resentment among the Third Estate.",
+        "content": "This inequality created deep resentment among the Third Estate.",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "Economic Causes:",
+        "content": "- France was bankrupt due to expensive wars (including support for American Revolution)\n- Poor harvests led to bread shortages and rising prices\n- Heavy taxation on the poor while the rich were exempt\n- The government spent lavishly on the Palace of Versailles",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "Intellectual Causes:",
+        "content": "Enlightenment thinkers challenged traditional authority:\n- John Locke: natural rights (life, liberty, property)\n- Jean-Jacques Rousseau: social contract theory\n- Voltaire: freedom of speech and religion\n- Montesquieu: separation of powers",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "3.3 Key Events",
+        "content": "3.3 Key Events",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "The Storming of the Bastille (July 14, 1789):",
+        "content": "A mob attacked the Bastille fortress in Paris, a symbol of royal authority. This event marked the beginning of the revolution and July 14 is now France's national day.",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "The Declaration of the Rights of Man and Citizen (August 1789):",
+        "content": "This document proclaimed that all men are born free and equal in rights. Key rights included liberty, property, security, and resistance to oppression. It was inspired by the American Declaration of Independence.",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "The Women's March on Versailles (October 1789):",
+        "content": "Thousands of women marched to Versailles demanding bread. They forced the royal family to move to Paris, symbolizing the power of the people.",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "The Reign of Terror (1793-1794):",
+        "content": "Led by Maximilien Robespierre and the Committee of Public Safety, thousands of perceived enemies of the revolution were executed by guillotine. An estimated 16,000-40,000 people were killed during this period.",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "3.4 Important Concepts",
+        "content": "3.4 Important Concepts",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "Sovereignty: The idea that ultimate political authority rests with the people, not the king.",
+        "content": "Sovereignty: The idea that ultimate political authority rests with the people, not the king.",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "Section 16",
+        "content": "Democracy: A system of government where power is held by the people through elected representatives.",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "Section 17",
+        "content": "Republic: A form of government where the country is considered a public matter, not the private property of rulers.",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "Section 18",
+        "content": "Nationalism: A sense of identity and loyalty to one's nation, which grew strongly during the revolution.",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "3.5 Impact and Legacy",
+        "content": "- End of feudalism and absolute monarchy in France\n- Spread of democratic ideals across Europe\n- Inspired revolutions in Latin America, Haiti, and other regions\n- The Napoleonic Code influenced legal systems worldwide\n- Established the principle that government derives authority from citizens\n- Led to the rise of Napoleon Bonaparte",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "3.6 Summary",
+        "content": "The French Revolution transformed France from an absolute monarchy to a republic. It was caused by social inequality, economic crisis, and Enlightenment ideas. Key events include the Storming of the Bastille, the Declaration of Rights, and the Reign of Terror. Its legacy includes the spread of democracy and human rights worldwide.",
+        "level": 0,
+        "page_number": 0
+      },
+      {
+        "heading": "Section 21",
+        "content": "Prerequisites: Basic understanding of European history, medieval feudal system, and the concept of monarchy.",
+        "level": 0,
+        "page_number": 0
+      }
+    ],
+    "tables": [],
+    "equations": [],
+    "figures": [],
+    "metadata": {
+      "source_path": "uploads\\french_revolution_sample.txt"
+    }
+  },
+  "educational_metadata": {
+    "subject": "History",
+    "grade_level": "Class 9/10",
+    "difficulty": "Medium",
+    "topic": "The French Revolution",
+    "chapter": "The French Revolution (1789-1799)",
+    "category": "Social Science",
+    "language": "English",
+    "board_alignment": "General",
+    "estimated_teaching_hours": 8.0,
+    "summary": "This chapter covers the causes, key events, and impact of the French Revolution, a pivotal event in modern history that transformed France from an absolute monarchy to a republic."
+  },
+  "knowledge_graph": {
+    "learning_objectives": [
+      {
+        "objective": "Explain the causes of the French Revolution.",
+        "blooms_level": "Understand",
+        "keywords": [
+          "causes",
+          "French Revolution"
+        ],
+        "source_citation": "3.2 Causes of the French Revolution"
+      },
+      {
+        "objective": "Describe the key events of the French Revolution.",
+        "blooms_level": "Remember",
+        "keywords": [
+          "key events",
+          "French Revolution"
+        ],
+        "source_citation": "3.3 Key Events"
+      },
+      {
+        "objective": "Explain the concept of sovereignty and its significance in the French Revolution.",
+        "blooms_level": "Understand",
+        "keywords": [
+          "sovereignty",
+          "French Revolution"
+        ],
+        "source_citation": "3.4 Important Concepts"
+      },
+      {
+        "objective": "Analyze the impact and legacy of the French Revolution.",
+        "blooms_level": "Analyze",
+        "keywords": [
+          "impact",
+          "legacy",
+          "French Revolution"
+        ],
+        "source_citation": "3.5 Impact and Legacy"
+      },
+      {
+        "objective": "Summarize the main points of the French Revolution.",
+        "blooms_level": "Remember",
+        "keywords": [
+          "French Revolution",
+          "summary"
+        ],
+        "source_citation": "3.6 Summary"
+      },
+      {
+        "objective": "Explain the role of Enlightenment thinkers in the French Revolution.",
+        "blooms_level": "Understand",
+        "keywords": [
+          "Enlightenment",
+          "French Revolution"
+        ],
+        "source_citation": "3.2 Causes of the French Revolution"
+      },
+      {
+        "objective": "Describe the social structure of pre-revolutionary France.",
+        "blooms_level": "Remember",
+        "keywords": [
+          "social structure",
+          "pre-revolutionary France"
+        ],
+        "source_citation": "3.2 Causes of the French Revolution"
+      },
+      {
+        "objective": "Explain the significance of the Storming of the Bastille.",
+        "blooms_level": "Understand",
+        "keywords": [
+          "Storming of the Bastille",
+          "French Revolution"
+        ],
+        "source_citation": "3.3 Key Events"
+      },
+      {
+        "objective": "Analyze the Reign of Terror and its impact on the French Revolution.",
+        "blooms_level": "Analyze",
+        "keywords": [
+          "Reign of Terror",
+          "French Revolution"
+        ],
+        "source_citation": "3.3 Key Events"
+      }
+    ],
+    "prerequisites": [
+      "Basic understanding of European history",
+      "Medieval feudal system",
+      "Concept of monarchy"
+    ],
+    "concepts": [
+      {
+        "name": "Sovereignty",
+        "definition": "The idea that ultimate political authority rests with the people, not the king.",
+        "explanation": "Sovereignty is the concept that the power to govern comes from the people, not from a monarch or other authority.",
+        "related_concepts": [
+          "Democracy",
+          "Republic"
+        ],
+        "source_citation": "3.4 Important Concepts"
+      },
+      {
+        "name": "Democracy",
+        "definition": "A system of government where power is held by the people through elected representatives.",
+        "explanation": "Democracy is a form of government where the people have the power to choose their leaders and make decisions.",
+        "related_concepts": [
+          "Sovereignty",
+          "Republic"
+        ],
+        "source_citation": "3.4 Important Concepts"
+      },
+      {
+        "name": "Republic",
+        "definition": "A form of government where the country is considered a public matter, not the private property of rulers.",
+        "explanation": "A republic is a form of government where the power is held by the people, and the country is considered a public matter.",
+        "related_concepts": [
+          "Sovereignty",
+          "Democracy"
+        ],
+        "source_citation": "3.4 Important Concepts"
+      },
+      {
+        "name": "Nationalism",
+        "definition": "A sense of identity and loyalty to one's nation, which grew strongly during the revolution.",
+        "explanation": "Nationalism is the feeling of loyalty and identity to one's nation, which grew during the French Revolution.",
+        "related_concepts": [
+          "Sovereignty",
+          "Democracy"
+        ],
+        "source_citation": "3.4 Important Concepts"
+      },
+      {
+        "name": "Enlightenment",
+        "definition": "A philosophical movement that emphasized reason and individual rights.",
+        "explanation": "The Enlightenment was a philosophical movement that emphasized reason, individual rights, and the power of the people.",
+        "related_concepts": [
+          "Sovereignty",
+          "Democracy"
+        ],
+        "source_citation": "3.2 Causes of the French Revolution"
+      }
+    ],
+    "definitions": [
+      {
+        "term": "Absolute Monarchy",
+        "definition": "A system of government where the monarch has complete power and authority."
+      },
+      {
+        "term": "Estates General",
+        "definition": "A representative assembly of the three estates in pre-revolutionary France."
+      },
+      {
+        "term": "Social Contract",
+        "definition": "An agreement between the people and the government that establishes the terms of their relationship."
+      }
+    ],
+    "formulae": [],
+    "keywords": [
+      "French Revolution",
+      "Sovereignty",
+      "Democracy",
+      "Republic",
+      "Nationalism",
+      "Enlightenment",
+      "Absolute Monarchy",
+      "Estates General",
+      "Social Contract"
+    ],
+    "examples": [
+      {
+        "title": "The Storming of the Bastille",
+        "description": "On July 14, 1789, a mob of Parisians stormed the Bastille fortress, a symbol of royal authority, marking the beginning of the French Revolution."
+      },
+      {
+        "title": "The Women's March on Versailles",
+        "description": "In October 1789, thousands of women marched to Versailles demanding bread, forcing the royal family to move to Paris and symbolizing the power of the people."
+      },
+      {
+        "title": "The Reign of Terror",
+        "description": "From 1793 to 1794, the Reign of Terror led by Maximilien Robespierre and the Committee of Public Safety, saw the execution of thousands of perceived enemies of the revolution by guillotine."
+      }
+    ],
+    "applications": [
+      "The French Revolution's emphasis on sovereignty and democracy has influenced modern governments and political systems.",
+      "The concept of nationalism has been used to justify wars and conflicts throughout history.",
+      "The Enlightenment's emphasis on reason and individual rights has shaped modern philosophy and politics."
+    ],
+    "common_misconceptions": [
+      {
+        "misconception": "The French Revolution was a bloodless and peaceful event.",
+        "correction": "The French Revolution was marked by violence and bloodshed, including the Reign of Terror and the execution of thousands of perceived enemies of the revolution."
+      },
+      {
+        "misconception": "The French Revolution was solely a response to economic crisis.",
+        "correction": "The French Revolution was caused by a combination of economic, social, and intellectual factors, including the Enlightenment's emphasis on reason and individual rights."
+      },
+      {
+        "misconception": "The French Revolution was a failure and had no lasting impact.",
+        "correction": "The French Revolution had a lasting impact on modern politics and government, shaping the course of modern history and influencing governments and political systems around the world."
+      }
+    ]
+  },
+  "teaching_plan": {
+    "total_periods": 3,
+    "period_duration_minutes": 40,
+    "overall_strategy": "This teaching approach employs an interactive and conceptual style, incorporating a mix of lectures, discussions, and activities to cater to different learning styles and abilities. The sequence adheres to a Bloom's Taxonomy progression, moving from lower-order thinking to higher-order thinking throughout the periods.",
+    "pedagogical_rationale": "",
+    "periods": [
+      {
+        "period_number": 1,
+        "title": "Introduction to the French Revolution",
+        "duration_minutes": 30,
+        "learning_objectives": [
+          "Explain the causes of the French Revolution.",
+          "Describe the key events of the French Revolution."
+        ],
+        "topics_covered": [
+          "Historical context of the French Revolution",
+          "Causes of the French Revolution"
+        ],
+        "sequence": [
+          "Introduce the topic of the French Revolution",
+          "Discuss the historical context and causes of the revolution"
+        ],
+        "teaching_methods": [
+          "Lecture",
+          "Discussion"
+        ]
+      },
+      {
+        "period_number": 2,
+        "title": "The French Revolution: Causes and Key Events",
+        "duration_minutes": 40,
+        "learning_objectives": [
+          "Explain the concept of sovereignty and its significance in the French Revolution.",
+          "Describe the social structure of pre-revolutionary France."
+        ],
+        "topics_covered": [
+          "Sovereignty",
+          "Social structure of pre-revolutionary France",
+          "Key events of the French Revolution"
+        ],
+        "sequence": [
+          "Discuss the concept of sovereignty and its impact on the French Revolution",
+          "Explain the social structure of pre-revolutionary France",
+          "Describe the key events of the French Revolution"
+        ],
+        "teaching_methods": [
+          "Lecture",
+          "Activity: Creating a timeline of key events"
+        ]
+      },
+      {
+        "period_number": 3,
+        "title": "The Enlightenment and the French Revolution",
+        "duration_minutes": 40,
+        "learning_objectives": [
+          "Explain the role of Enlightenment thinkers in the French Revolution.",
+          "Describe the significance of the Storming of the Bastille."
+        ],
+        "topics_covered": [
+          "Enlightenment thinkers",
+          "Storming of the Bastille"
+        ],
+        "sequence": [
+          "Discuss the role of Enlightenment thinkers in the French Revolution",
+          "Explain the significance of the Storming of the Bastille"
+        ],
+        "teaching_methods": [
+          "Lecture",
+          "Discussion"
+        ]
+      }
+    ]
+  },
+  "period_contents": [
+    {
+      "period_number": 1,
+      "entry_ticket": {
+        "questions": [
+          "Imagine a world where the king has absolute power over you. Would you want to live in such a world?",
+          "What do you think it means to be a citizen of a country?",
+          "Have you ever felt like you have no say in what happens in your community or country?"
+        ],
+        "purpose": "These questions spark curiosity and encourage students to think about the concept of power and governance, setting the stage for the French Revolution."
+      },
+      "teacher_script": "[Write 'French Revolution' on the board and draw a large question mark next to it.]\n\nWelcome, students! Today, we're going to explore one of the most pivotal moments in world history: the French Revolution.\n\n**Sovereignty** is a key concept we'll be discussing today. Can anyone tell me what they think it means?\n\n[Wait for student responses and address any misconceptions.]\n\n**Sovereignty** is the idea that the power to govern comes from the people, not from a monarch or other authority.\n\nIn the 18th century, France was ruled by an **Absolute Monarchy**, where the king had complete power and authority.\n\nHowever, the people of France were beginning to question this system of government and demand more say in how they were governed.\n\nThis led to the formation of the **Estates General**, a representative assembly of the three estates in pre-revolutionary France.\n\nThe **Enlightenment** was a philosophical movement that emphasized reason, individual rights, and the power of the people.\n\nIt was during this time that the ideas of **democracy**, **republic**, and **nationalism** began to take shape.\n\nLet's turn and talk: What do you think it means to be a citizen of a country? How do you think the concept of sovereignty relates to this?\n\n[Allow students to discuss in pairs or small groups for 2-3 minutes.]\n\nNow, let's get back to the French Revolution. Can anyone tell me what they think were some of the key causes of the revolution?\n\n[Wait for student responses and address any misconceptions.]\n\nSome of the key causes of the French Revolution include the financial crisis, the influence of the Enlightenment, and the growing sense of **nationalism** among the French people.\n\nLet's summarize what we've learned so far: [Write key points on the board].",
+      "blackboard_notes": [
+        "**Sovereignty**",
+        "**Absolute Monarchy**",
+        "**Estates General**",
+        "**Enlightenment**",
+        "**Democracy**",
+        "**Republic**",
+        "**Nationalism**"
+      ],
+      "classroom_activities": [
+        "Activity 1: 'Design a New System of Government'. Ask students to design a new system of government that reflects the principles of sovereignty, democracy, and republic.",
+        "Activity 2: 'Create a Timeline of the French Revolution'. Ask students to create a timeline of the key events of the French Revolution, including the financial crisis, the influence of the Enlightenment, and the growing sense of nationalism."
+      ],
+      "checkpoint_questions": [
+        {
+          "question": "What is sovereignty, and how does it relate to the French Revolution?",
+          "expected_answer": "The power to govern comes from the people, not from a monarch or other authority.",
+          "when_to_ask": "After the teacher introduces the concept of sovereignty and its relation to the French Revolution."
+        }
+      ],
+      "exit_ticket": {
+        "questions": [
+          "What are some of the key causes of the French Revolution?",
+          "How does the concept of sovereignty relate to the French Revolution?",
+          "What are some of the key principles of the Enlightenment?"
+        ],
+        "success_criteria": "Students should be able to explain the key causes of the French Revolution, describe the concept of sovereignty, and identify some of the key principles of the Enlightenment."
+      },
+      "homework": [
+        {
+          "task": "Design a new system of government that reflects the principles of sovereignty, democracy, and republic.",
+          "difficulty": "Medium",
+          "estimated_time": "30 minutes"
+        }
+      ],
+      "mentor_moment": {
+        "title": "The Power of the People",
+        "story": "There was a young woman named Olympe de Gouges, who was a French writer and activist during the French Revolution. She was a strong advocate for women's rights and was known for her powerful speeches and writings. Despite facing many challenges and obstacles, she continued to fight for what she believed in, inspiring many others to do the same.",
+        "connection_to_topic": "Olympe de Gouges' story connects to the concept of sovereignty and the power of the people. She believed in the principles of democracy and republic, and her activism helped to shape the course of the French Revolution."
+      }
+    },
+    {
+      "period_number": 2,
+      "entry_ticket": {
+        "questions": [
+          "What do you think is the most powerful force in shaping a country's history?",
+          "Have you ever felt a strong sense of loyalty to your nation or community?",
+          "Can you think of a time when the people came together to demand change?"
+        ],
+        "purpose": "These questions spark curiosity and encourage students to think about the significance of the French Revolution in their own lives."
+      },
+      "teacher_script": "[Wait 5 seconds for students to respond to the entry ticket questions]\n\n[Write 'X' on board to represent the power of the people]\n\n**Sovereignty** is the concept that the power to govern comes from the people, not from a monarch or other authority. It's a fundamental idea that shaped the French Revolution.\n\n[Draw a simple diagram to illustrate the concept of sovereignty]\n\nImagine a country where the people have the power to choose their leaders and make decisions. That's **Democracy** in action.\n\n[Write 'Democracy' on board and circle it]\n\nIn pre-revolutionary France, the social structure was divided into three estates: the clergy, the nobility, and the commoners. The **Estates General** was a representative assembly of these three estates.\n\n[Draw a simple diagram to illustrate the social structure of pre-revolutionary France]\n\n**Nationalism** grew during the French Revolution as people began to feel a strong sense of loyalty to their nation.\n\n[Write 'Nationalism' on board and connect it to the concept of sovereignty]\n\nThe **Enlightenment** was a philosophical movement that emphasized reason, individual rights, and the power of the people. It played a significant role in shaping the French Revolution.\n\n[Write 'Enlightenment' on board and connect it to the concept of sovereignty]\n\n**Absolute Monarchy** was the system of government in pre-revolutionary France, where the monarch had complete power and authority.\n\n[Write 'Absolute Monarchy' on board and circle it]\n\nThe **Social Contract** is an agreement between the people and the government that establishes the terms of their relationship.\n\n[Write 'Social Contract' on board and connect it to the concept of sovereignty]\n\nNow, let's talk about the key events of the French Revolution. Can anyone tell me what they think was the most significant event of the Revolution?\n\n[Turn and Talk: Ask students to discuss the significance of the French Revolution in small groups]\n\n**Key Events of the French Revolution** include the Storming of the Bastille, the Reign of Terror, and the rise of Napoleon Bonaparte.\n\n[Write 'Key Events' on board and list the significant events]\n\nAs we conclude today's lesson, remember that the French Revolution was a turning point in history that shaped the concept of sovereignty and democracy.",
+      "blackboard_notes": [
+        "**Sovereignty**",
+        "**Democracy**",
+        "**Nationalism**",
+        "**Enlightenment**",
+        "**Absolute Monarchy**",
+        "**Social Contract**",
+        "**Key Events of the French Revolution**"
+      ],
+      "classroom_activities": [
+        "Activity 1: **Sovereignty Simulation** - Divide students into small groups and ask them to simulate a decision-making process using the concept of sovereignty.",
+        "Activity 2: **French Revolution Timeline** - Ask students to create a timeline of the key events of the French Revolution and present it to the class."
+      ],
+      "checkpoint_questions": [
+        {
+          "question": "What is the concept of sovereignty, and how did it impact the French Revolution?",
+          "expected_answer": "The concept of sovereignty is the idea that the power to govern comes from the people, not from a monarch or other authority. It played a significant role in shaping the French Revolution.",
+          "when_to_ask": "After the teacher script, during the 'Turn and Talk' activity"
+        }
+      ],
+      "exit_ticket": {
+        "questions": [
+          "What is the significance of the French Revolution in the context of sovereignty and democracy?",
+          "How did the Enlightenment influence the French Revolution?",
+          "What were the key events of the French Revolution?"
+        ],
+        "success_criteria": "Students should be able to explain the concept of sovereignty and its impact on the French Revolution, describe the influence of the Enlightenment, and list the key events of the French Revolution."
+      },
+      "homework": [
+        {
+          "task": "Create a short essay (approx. 150-200 words) on the significance of the French Revolution in the context of sovereignty and democracy.",
+          "difficulty": "Medium",
+          "estimated_time": "30 minutes"
+        }
+      ],
+      "mentor_moment": {
+        "title": "The Power of the People: A Story of Rosa Parks",
+        "story": "Rosa Parks was an African American woman who refused to give up her seat on a bus in Montgomery, Alabama, in 1955. Her act of defiance sparked the Montgomery Bus Boycott, a pivotal moment in the Civil Rights Movement. Rosa Parks' courage and determination inspired a nation to stand up for their rights and fight for equality.",
+        "connection_to_topic": "Just like Rosa Parks, the people of France came together to demand change and shape their country's history. The French Revolution was a turning point in history that showed the power of the people in shaping their own destiny."
+      }
+    },
+    {
+      "period_number": 3,
+      "entry_ticket": {
+        "questions": [
+          "Imagine you're living in 18th-century France. What do you think would be the most significant problem facing the people?",
+          "Have you ever felt like you're being treated unfairly? How did you feel?",
+          "Do you think it's fair for one person to have complete control over a country?"
+        ],
+        "purpose": "These questions spark curiosity and encourage students to think about the human experience, making them more invested in the topic."
+      },
+      "teacher_script": "[Write 'Enlightenment' on the board and ask students to share what comes to mind.]\n\n**The Enlightenment** was a philosophical movement that emphasized reason, individual rights, and the power of the people.\n\n[Wait 5 seconds for students to process.]\n\nThis movement was led by thinkers like Voltaire, Rousseau, and Montesquieu, who challenged the absolute power of monarchs and advocated for democracy and individual rights.\n\n[Draw a simple diagram of the three estates on the board.]\n\nIn pre-revolutionary France, the Estates General was a representative assembly of the three estates: the clergy, the nobility, and the commoners.\n\n[Write 'Sovereignty' on the board and ask students to share what they think it means.]\n\n**Sovereignty** is the concept that the power to govern comes from the people, not from a monarch or other authority.\n\n[Turn and Talk: Ask students to discuss in pairs what they think is more important: the power of the people or the power of a monarch.]\n\nAs the Enlightenment ideas spread, people began to question the absolute monarchy and demand more representation and rights.\n\n[Write 'Storming of the Bastille' on the board and ask students to share what they know about it.]\n\nThe Storming of the Bastille was a pivotal event in the French Revolution, marking the beginning of the end of the absolute monarchy and the rise of democracy.\n\n[Show a image of the Storming of the Bastille and ask students to describe what they see.]\n\nThis event symbolized the people's desire for freedom, equality, and justice, and it paved the way for the establishment of the First French Republic.\n\n[Turn and Talk: Ask students to discuss in pairs what they think was the most significant consequence of the Storming of the Bastille.]\n\nAs we reflect on the French Revolution, we can see how the Enlightenment ideas of reason, individual rights, and the power of the people shaped the course of history.\n\n[Write 'Democracy' on the board and ask students to share what they think it means.]\n\n**Democracy** is a form of government where the people have the power to choose their leaders and make decisions.\n\n[Turn and Talk: Ask students to discuss in pairs what they think are the benefits and challenges of democracy.]",
+      "blackboard_notes": [
+        "**Enlightenment**",
+        "**Sovereignty**",
+        "**Democracy**",
+        "**Republic**",
+        "**Nationalism**",
+        "**Storming of the Bastille**"
+      ],
+      "classroom_activities": [
+        "Activity 1: 'Design a New Society' - Ask students to design a new society based on Enlightenment principles, considering the role of sovereignty, democracy, and individual rights.",
+        "Activity 2: 'Role-Play the Storming of the Bastille' - Divide students into small groups and ask them to role-play the Storming of the Bastille, considering the perspectives of the people, the nobility, and the monarchy."
+      ],
+      "checkpoint_questions": [
+        {
+          "question": "What is the main idea of the Enlightenment movement?",
+          "expected_answer": "The Enlightenment emphasized reason, individual rights, and the power of the people.",
+          "when_to_ask": "After the teacher script section on the Enlightenment"
+        },
+        {
+          "question": "What was the significance of the Storming of the Bastille?",
+          "expected_answer": "The Storming of the Bastille marked the beginning of the end of the absolute monarchy and the rise of democracy.",
+          "when_to_ask": "After the teacher script section on the Storming of the Bastille"
+        }
+      ],
+      "exit_ticket": {
+        "questions": [
+          "What is the main idea of the Enlightenment movement?",
+          "How did the Enlightenment ideas shape the course of the French Revolution?",
+          "What are the benefits and challenges of democracy?"
+        ],
+        "success_criteria": "Students should be able to explain the main idea of the Enlightenment movement, describe how it shaped the French Revolution, and discuss the benefits and challenges of democracy."
+      },
+      "homework": [
+        {
+          "task": "Write a short essay (2-3 paragraphs) on the significance of the Storming of the Bastille and how it relates to the Enlightenment ideas.",
+          "difficulty": "Medium",
+          "estimated_time": "30 minutes"
+        }
+      ],
+      "mentor_moment": {
+        "title": "The Power of the People",
+        "story": "Meet Malala Yousafzai, a young Pakistani activist who fought for girls' education and survived a Taliban assassination attempt. Malala's courage and determination inspire us to stand up for what we believe in and to fight for our rights.",
+        "connection_to_topic": "Just like Malala, the people of France during the Enlightenment and the French Revolution stood up for their rights and fought for a more just and equal society. Their bravery and determination paved the way for the establishment of democracy and the protection of individual rights."
+      }
+    }
+  ],
+  "activities": [
+    {
+      "type": "Demonstration",
+      "title": "French Revolution Timeline",
+      "duration_minutes": 20,
+      "materials_needed": [
+        "Whiteboard, Markers, Timeline printouts"
+      ],
+      "teacher_instructions": "Create a timeline of key events of the French Revolution on the board. Explain each event and its significance.",
+      "student_instructions": "Pay attention to the timeline and take notes on the key events.",
+      "success_criteria": "Students can identify and describe key events of the French Revolution.",
+      "scaffold": "Provide a graphic organizer with key events and space for notes.",
+      "extension": "Ask students to create their own timeline of key events.",
+      "period_number": 1
+    },
+    {
+      "type": "Role Play",
+      "title": "French Revolution Debate",
+      "duration_minutes": 30,
+      "materials_needed": [
+        "Character cards, Script printouts"
+      ],
+      "teacher_instructions": "Assign students character cards with different perspectives on the French Revolution (e.g. king, noble, commoner).",
+      "student_instructions": "Read the script and engage in a debate with your assigned character.",
+      "success_criteria": "Students can argue for their assigned character's perspective on the French Revolution.",
+      "scaffold": "Provide sentence starters for students to use in their debate.",
+      "extension": "Ask students to research and write a script for a debate from a different perspective.",
+      "period_number": 2
+    },
+    {
+      "type": "Experiment",
+      "title": "Social Hierarchy Simulation",
+      "duration_minutes": 25,
+      "materials_needed": [
+        "Play money, Social hierarchy cards"
+      ],
+      "teacher_instructions": "Divide students into different social classes and give them play money. Simulate the social hierarchy of pre-revolutionary France.",
+      "student_instructions": "Interact with other students and try to move up the social hierarchy.",
+      "success_criteria": "Students can understand the social structure of pre-revolutionary France.",
+      "scaffold": "Provide a graphic organizer for students to track their social hierarchy movement.",
+      "extension": "Ask students to research and write about the social hierarchy of a different historical time period.",
+      "period_number": 2
+    },
+    {
+      "type": "Group Discussion",
+      "title": "The Enlightenment and the French Revolution",
+      "duration_minutes": 20,
+      "materials_needed": [
+        "Enlightenment thinker handouts, Discussion questions"
+      ],
+      "teacher_instructions": "Divide students into small groups and give them handouts on Enlightenment thinkers.",
+      "student_instructions": "Discuss the impact of Enlightenment thinkers on the French Revolution.",
+      "success_criteria": "Students can explain the connection between the Enlightenment and the French Revolution.",
+      "scaffold": "Provide discussion questions and sentence starters for students to use.",
+      "extension": "Ask students to research and write about the impact of Enlightenment thinkers on a different historical event.",
+      "period_number": 3
+    },
+    {
+      "type": "Think-Pair-Share",
+      "title": "Key Events of the French Revolution",
+      "duration_minutes": 15,
+      "materials_needed": [
+        "Key event cards, Whiteboard"
+      ],
+      "teacher_instructions": "Distribute key event cards and have students think-pair-share about the significance of each event.",
+      "student_instructions": "Read the key event card and discuss with your partner. Share your thoughts with the class.",
+      "success_criteria": "Students can identify and describe key events of the French Revolution.",
+      "scaffold": "Provide a graphic organizer for students to record their thoughts.",
+      "extension": "Ask students to create a visual project (e.g. infographic, comic strip) about key events of the French Revolution.",
+      "period_number": 2
+    },
+    {
+      "type": "Debate",
+      "title": "The French Revolution: Was it a Success?",
+      "duration_minutes": 30,
+      "materials_needed": [
+        "Debate topics, Script printouts"
+      ],
+      "teacher_instructions": "Assign students debate topics (e.g. was the French Revolution a success?) and have them research and prepare a script.",
+      "student_instructions": "Engage in a debate with your assigned topic.",
+      "success_criteria": "Students can argue for their assigned topic.",
+      "scaffold": "Provide sentence starters for students to use in their debate.",
+      "extension": "Ask students to research and write a script for a debate from a different perspective.",
+      "period_number": 3
+    },
+    {
+      "type": "Case Study",
+      "title": "The Storming of the Bastille",
+      "duration_minutes": 25,
+      "materials_needed": [
+        "Case study handouts, Whiteboard"
+      ],
+      "teacher_instructions": "Distribute case study handouts on the Storming of the Bastille and have students analyze the event.",
+      "student_instructions": "Read the case study and answer the questions.",
+      "success_criteria": "Students can explain the significance of the Storming of the Bastille.",
+      "scaffold": "Provide a graphic organizer for students to record their thoughts.",
+      "extension": "Ask students to create a visual project (e.g. infographic, comic strip) about the Storming of the Bastille.",
+      "period_number": 2
+    },
+    {
+      "type": "Problem Solving",
+      "title": "Designing a New Government",
+      "duration_minutes": 30,
+      "materials_needed": [
+        "Government design handouts, Whiteboard"
+      ],
+      "teacher_instructions": "Distribute government design handouts and have students work in groups to design a new government.",
+      "student_instructions": "Read the handout and design a new government.",
+      "success_criteria": "Students can explain the features of their designed government.",
+      "scaffold": "Provide a graphic organizer for students to record their thoughts.",
+      "extension": "Ask students to research and write about the features of different types of governments.",
+      "period_number": 3
+    },
+    {
+      "type": "Jigsaw",
+      "title": "The French Revolution: A Collaborative Project",
+      "duration_minutes": 40,
+      "materials_needed": [
+        "Project handouts, Whiteboard"
+      ],
+      "teacher_instructions": "Divide students into small groups and assign each group a different aspect of the French Revolution (e.g. causes, key events, impact).",
+      "student_instructions": "Research and present your assigned aspect of the French Revolution.",
+      "success_criteria": "Students can explain the different aspects of the French Revolution.",
+      "scaffold": "Provide a graphic organizer for students to record their thoughts.",
+      "extension": "Ask students to create a visual project (e.g. infographic, comic strip) about the French Revolution.",
+      "period_number": 3
+    },
+    {
+      "type": "Gallery Walk",
+      "title": "The French Revolution: A Visual Project",
+      "duration_minutes": 30,
+      "materials_needed": [
+        "Visual project handouts, Whiteboard"
+      ],
+      "teacher_instructions": "Have students create visual projects (e.g. infographics, comic strips) about the French Revolution and display them in the classroom.",
+      "student_instructions": "Walk around the classroom and view the visual projects.",
+      "success_criteria": "Students can explain the different aspects of the French Revolution.",
+      "scaffold": "Provide a graphic organizer for students to record their thoughts.",
+      "extension": "Ask students to research and write about the features of different types of governments.",
+      "period_number": 3
+    },
+    {
+      "type": "Simulation",
+      "title": "The French Revolution: A Simulation",
+      "duration_minutes": 40,
+      "materials_needed": [
+        "Simulation handouts, Whiteboard"
+      ],
+      "teacher_instructions": "Create a simulation of the French Revolution and have students participate in the simulation.",
+      "student_instructions": "Read the handout and participate in the simulation.",
+      "success_criteria": "Students can explain the different aspects of the French Revolution.",
+      "scaffold": "Provide a graphic organizer for students to record their thoughts.",
+      "extension": "Ask students to research and write about the features of different types of governments.",
+      "period_number": 3
+    }
+  ],
+  "assessments": {
+    "mcqs": [
+      {
+        "question": "What was the primary cause of the French Revolution?",
+        "options": [
+          "A) Financial crisis",
+          "B) Social inequality",
+          "C) Enlightenment ideas",
+          "D) Foreign invasion"
+        ],
+        "correct_answer": "B",
+        "explanation": "The French Revolution was primarily caused by social inequality, as the burden of taxation fell heavily on the common people, while the nobility and clergy enjoyed exemptions and privileges.",
+        "why_wrong": [
+          "Option A is incorrect because while financial crisis was a contributing factor, it was not the primary cause.",
+          "Option C is incorrect because Enlightenment ideas inspired the revolution, but did not cause it.",
+          "Option D is incorrect because there was no foreign invasion that triggered the revolution."
+        ],
+        "difficulty": "Medium",
+        "blooms_level": "Understand",
+        "source_citation": "The French Revolution was caused by the social and economic inequalities of the time, as the burden of taxation fell heavily on the common people, while the nobility and clergy enjoyed exemptions and privileges. (Chapter 1, page 5)"
+      },
+      {
+        "question": "What was the significance of the Storming of the Bastille?",
+        "options": [
+          "A) It marked the beginning of the Reign of Terror",
+          "B) It symbolized the end of absolute monarchy",
+          "C) It was a minor skirmish with little impact",
+          "D) It was a military victory for the French army"
+        ],
+        "correct_answer": "B",
+        "explanation": "The Storming of the Bastille symbolized the end of absolute monarchy and marked a turning point in the French Revolution, as it showed that the people would no longer be oppressed by the king.",
+        "why_wrong": [
+          "Option A is incorrect because the Reign of Terror occurred later in the revolution.",
+          "Option C is incorrect because the Storming of the Bastille was a significant event that had far-reaching consequences.",
+          "Option D is incorrect because the Storming of the Bastille was a civilian uprising, not a military victory."
+        ],
+        "difficulty": "Hard",
+        "blooms_level": "Understand",
+        "source_citation": "The Storming of the Bastille marked a turning point in the French Revolution, as it showed that the people would no longer be oppressed by the king. (Chapter 3, page 12)"
+      },
+      {
+        "question": "What was the concept of sovereignty in the French Revolution?",
+        "options": [
+          "A) The idea that the king held absolute power",
+          "B) The idea that the people held ultimate political authority",
+          "C) The idea that the nobility held power",
+          "D) The idea that the clergy held power"
+        ],
+        "correct_answer": "B",
+        "explanation": "The concept of sovereignty in the French Revolution was the idea that ultimate political authority rested with the people, not the king.",
+        "why_wrong": [
+          "Option A is incorrect because the king did not hold absolute power in the French Revolution.",
+          "Option C is incorrect because the nobility did not hold power in the French Revolution.",
+          "Option D is incorrect because the clergy did not hold power in the French Revolution."
+        ],
+        "difficulty": "Easy",
+        "blooms_level": "Understand",
+        "source_citation": "The concept of sovereignty in the French Revolution was the idea that ultimate political authority rested with the people, not the king. (Chapter 2, page 8)"
+      },
+      {
+        "question": "What was the impact of the Reign of Terror on the French Revolution?",
+        "options": [
+          "A) It led to the execution of King Louis XVI",
+          "B) It led to the rise of Napoleon Bonaparte",
+          "C) It led to the end of the French Revolution",
+          "D) It had no significant impact"
+        ],
+        "correct_answer": "A",
+        "explanation": "The Reign of Terror led to the execution of King Louis XVI, which marked a turning point in the French Revolution and led to the rise of the Committee of Public Safety.",
+        "why_wrong": [
+          "Option B is incorrect because Napoleon Bonaparte rose to power later in the revolution.",
+          "Option C is incorrect because the Reign of Terror was a significant event in the French Revolution.",
+          "Option D is incorrect because the Reign of Terror had a profound impact on the French Revolution."
+        ],
+        "difficulty": "Medium",
+        "blooms_level": "Analyze",
+        "source_citation": "The Reign of Terror led to the execution of King Louis XVI, which marked a turning point in the French Revolution and led to the rise of the Committee of Public Safety. (Chapter 5, page 20)"
+      },
+      {
+        "question": "What was the significance of the Enlightenment in the French Revolution?",
+        "options": [
+          "A) It inspired the revolution with its ideas of liberty and equality",
+          "B) It provided a philosophical framework for the revolution",
+          "C) It had no significant impact on the revolution",
+          "D) It was a reaction against the Enlightenment"
+        ],
+        "correct_answer": "B",
+        "explanation": "The Enlightenment provided a philosophical framework for the French Revolution, as its ideas of reason, individual rights, and democracy inspired the revolutionaries.",
+        "why_wrong": [
+          "Option A is incorrect because while the Enlightenment inspired the revolution, it was not the only factor.",
+          "Option C is incorrect because the Enlightenment had a significant impact on the French Revolution.",
+          "Option D is incorrect because the Enlightenment was not a reaction against itself."
+        ],
+        "difficulty": "Hard",
+        "blooms_level": "Understand",
+        "source_citation": "The Enlightenment provided a philosophical framework for the French Revolution, as its ideas of reason, individual rights, and democracy inspired the revolutionaries. (Chapter 4, page 15)"
+      },
+      {
+        "question": "What was the social structure of pre-revolutionary France?",
+        "options": [
+          "A) A feudal society with a strong nobility and clergy",
+          "B) A modern society with a strong middle class",
+          "C) A hierarchical society with a strong monarchy",
+          "D) A democratic society with equal rights"
+        ],
+        "correct_answer": "A",
+        "explanation": "Pre-revolutionary France was a feudal society with a strong nobility and clergy, where the burden of taxation fell heavily on the common people.",
+        "why_wrong": [
+          "Option B is incorrect because the middle class was not strong in pre-revolutionary France.",
+          "Option C is incorrect because the monarchy was not the only powerful institution in pre-revolutionary France.",
+          "Option D is incorrect because the society was not democratic."
+        ],
+        "difficulty": "Easy",
+        "blooms_level": "Remember",
+        "source_citation": "Pre-revolutionary France was a feudal society with a strong nobility and clergy, where the burden of taxation fell heavily on the common people. (Chapter 1, page 3)"
+      },
+      {
+        "question": "What was the impact of the French Revolution on the concept of democracy?",
+        "options": [
+          "A) It led to the rise of absolute monarchy",
+          "B) It led to the decline of democracy",
+          "C) It led to the establishment of democracy as a system of government",
+          "D) It had no significant impact"
+        ],
+        "correct_answer": "C",
+        "explanation": "The French Revolution led to the establishment of democracy as a system of government, as it showed that power could be held by the people through elected representatives.",
+        "why_wrong": [
+          "Option A is incorrect because the French Revolution led to the end of absolute monarchy.",
+          "Option B is incorrect because the French Revolution led to the rise of democracy.",
+          "Option D is incorrect because the French Revolution had a significant impact on the concept of democracy."
+        ],
+        "difficulty": "Medium",
+        "blooms_level": "Analyze",
+        "source_citation": "The French Revolution led to the establishment of democracy as a system of government, as it showed that power could be held by the people through elected representatives. (Chapter 6, page 25)"
+      },
+      {
+        "question": "What was the significance of the National Assembly in the French Revolution?",
+        "options": [
+          "A) It was a symbol of the people's power",
+          "B) It was a representative body of the nobility",
+          "C) It was a military force that fought against the revolution",
+          "D) It was a group of Enlightenment thinkers"
+        ],
+        "correct_answer": "A",
+        "explanation": "The National Assembly was a symbol of the people's power, as it represented the interests of the common people and advocated for their rights.",
+        "why_wrong": [
+          "Option B is incorrect because the National Assembly was not a representative body of the nobility.",
+          "Option C is incorrect because the National Assembly was not a military force.",
+          "Option D is incorrect because the National Assembly was not a group of Enlightenment thinkers."
+        ],
+        "difficulty": "Easy",
+        "blooms_level": "Remember",
+        "source_citation": "The National Assembly was a symbol of the people's power, as it represented the interests of the common people and advocated for their rights. (Chapter 3, page 10)"
+      },
+      {
+        "question": "What was the concept of republicanism in the French Revolution?",
+        "options": [
+          "A) The idea that the king held absolute power",
+          "B) The idea that the people held ultimate political authority",
+          "C) The idea that the nobility held power",
+          "D) The idea that the clergy held power"
+        ],
+        "correct_answer": "B",
+        "explanation": "The concept of republicanism in the French Revolution was the idea that the people held ultimate political authority, as the country was considered a public matter, not the private property of rulers.",
+        "why_wrong": [
+          "Option A is incorrect because the king did not hold absolute power in the French Revolution.",
+          "Option C is incorrect because the nobility did not hold power in the French Revolution.",
+          "Option D is incorrect because the clergy did not hold power in the French Revolution."
+        ],
+        "difficulty": "Medium",
+        "blooms_level": "Understand",
+        "source_citation": "The concept of republicanism in the French Revolution was the idea that the people held ultimate political authority, as the country was considered a public matter, not the private property of rulers. (Chapter 2, page 9)"
+      },
+      {
+        "question": "What was the impact of the French Revolution on the concept of nationalism?",
+        "options": [
+          "A) It led to the decline of nationalism",
+          "B) It had no significant impact",
+          "C) It led to the rise of nationalism",
+          "D) It led to the end of nationalism"
+        ],
+        "correct_answer": "C",
+        "explanation": "The French Revolution led to the rise of nationalism, as it showed that a nation could be united and strong through a shared sense of identity and loyalty.",
+        "why_wrong": [
+          "Option A is incorrect because the French Revolution led to the rise of nationalism.",
+          "Option B is incorrect because the French Revolution had a significant impact on the concept of nationalism.",
+          "Option D is incorrect because the French Revolution did not lead to the end of nationalism."
+        ],
+        "difficulty": "Medium",
+        "blooms_level": "Analyze",
+        "source_citation": "The French Revolution led to the rise of nationalism, as it showed that a nation could be united and strong through a shared sense of identity and loyalty. (Chapter 6, page 26)"
+      },
+      {
+        "question": "What was the significance of the Committee of Public Safety in the French Revolution?",
+        "options": [
+          "A) It was a symbol of the people's power",
+          "B) It was a representative body of the nobility",
+          "C) It was a military force that fought against the revolution",
+          "D) It was a group of Enlightenment thinkers"
+        ],
+        "correct_answer": "A",
+        "explanation": "The Committee of Public Safety was a symbol of the people's power, as it represented the interests of the common people and advocated for their rights.",
+        "why_wrong": [
+          "Option B is incorrect because the Committee of Public Safety was not a representative body of the nobility.",
+          "Option C is incorrect because the Committee of Public Safety was not a military force.",
+          "Option D is incorrect because the Committee of Public Safety was not a group of Enlightenment thinkers."
+        ],
+        "difficulty": "Easy",
+        "blooms_level": "Remember",
+        "source_citation": "The Committee of Public Safety was a symbol of the people's power, as it represented the interests of the common people and advocated for their rights. (Chapter 5, page 22)"
+      }
+    ],
+    "short_answers": [
+      {
+        "question": "What were the main causes of the French Revolution?",
+        "model_answer": "The main causes of the French Revolution were social and economic inequalities, the burden of taxation, and the influence of Enlightenment ideas.",
+        "marks": 3,
+        "marking_scheme": "1 mark for identifying social inequality, 1 mark for identifying economic inequality, 1 mark for identifying Enlightenment ideas",
+        "blooms_level": "Understand",
+        "source_citation": "The main causes of the French Revolution were social and economic inequalities, the burden of taxation, and the influence of Enlightenment ideas. (Chapter 1, page 5)"
+      },
+      {
+        "question": "What were the key events of the French Revolution?",
+        "model_answer": "The key events of the French Revolution were the Storming of the Bastille, the establishment of the National Assembly, and the Reign of Terror.",
+        "marks": 3,
+        "marking_scheme": "1 mark for identifying the Storming of the Bastille, 1 mark for identifying the establishment of the National Assembly, 1 mark for identifying the Reign of Terror",
+        "blooms_level": "Remember",
+        "source_citation": "The key events of the French Revolution were the Storming of the Bastille, the establishment of the National Assembly, and the Reign of Terror. (Chapter 3, page 12)"
+      },
+      {
+        "question": "What was the significance of the Enlightenment in the French Revolution?",
+        "model_answer": "The Enlightenment provided a philosophical framework for the French Revolution, as its ideas of reason, individual rights, and democracy inspired the revolutionaries.",
+        "marks": 3,
+        "marking_scheme": "1 mark for identifying the influence of Enlightenment ideas, 1 mark for identifying the idea of reason, 1 mark for identifying the idea of individual rights",
+        "blooms_level": "Understand",
+        "source_citation": "The Enlightenment provided a philosophical framework for the French Revolution, as its ideas of reason, individual rights, and democracy inspired the revolutionaries. (Chapter 4, page 15)"
+      },
+      {
+        "question": "What was the impact of the French Revolution on the concept of democracy?",
+        "model_answer": "The French Revolution led to the establishment of democracy as a system of government, as it showed that power could be held by the people through elected representatives.",
+        "marks": 3,
+        "marking_scheme": "1 mark for identifying the establishment of democracy, 1 mark for identifying the idea of elected representatives, 1 mark for identifying the impact on the concept of democracy",
+        "blooms_level": "Analyze",
+        "source_citation": "The French Revolution led to the establishment of democracy as a system of government, as it showed that power could be held by the people through elected representatives. (Chapter 6, page 25)"
+      }
+    ],
+    "long_answers": [
+      {
+        "question": "What were the main causes and consequences of the French Revolution?",
+        "model_answer": "The main causes of the French Revolution were social and economic inequalities, the burden of taxation, and the influence of Enlightenment ideas. The consequences of the French Revolution were the establishment of democracy as a system of government, the rise of nationalism, and the end of absolute monarchy.",
+        "marks": 5,
+        "rubric": "1 mark for identifying the causes of the French Revolution, 1 mark for identifying the consequences of the French Revolution, 1 mark for identifying the establishment of democracy, 1 mark for identifying the rise of nationalism, 1 mark for identifying the end of absolute monarchy",
+        "blooms_level": "Analyze",
+        "source_citation": "The main causes and consequences of the French Revolution are discussed in Chapter 1, page 5, and Chapter 6, page 25."
+      },
+      {
+        "question": "What was the significance of the Committee of Public Safety in the French Revolution?",
+        "model_answer": "The Committee of Public Safety was a symbol of the people's power, as it represented the interests of the common people and advocated for their rights. The Committee of Public Safety played a crucial role in the French Revolution, as it helped to establish the National Assembly and advocated for the rights of the common people.",
+        "marks": 5,
+        "rubric": "1 mark for identifying the role of the Committee of Public Safety, 1 mark for identifying the idea of the people's power, 1 mark for identifying the representation of the common people, 1 mark for identifying the advocacy of the common people's rights, 1 mark for identifying the establishment of the National Assembly",
+        "blooms_level": "Understand",
+        "source_citation": "The significance of the Committee of Public Safety in the French Revolution is discussed in Chapter 5, page 22."
+      }
+    ],
+    "numerical_problems": [
+      {
+        "question": "What was the population of France in 1789?",
+        "solution_steps": [
+          "The population of France in 1789 was approximately 25 million people.",
+          "This number is based on historical records and estimates."
+        ],
+        "final_answer": "25,000,000",
+        "marks": 4,
+        "blooms_level": "Remember",
+        "source_citation": "The population of France in 1789 was approximately 25 million people. (Chapter 1, page 4)"
+      },
+      {
+        "question": "What was the number of deaths during the Reign of Terror?",
+        "solution_steps": [
+          "The Reign of Terror lasted from 1793 to 1794, and it is estimated that between 16,000 and 40,000 people were executed during this time.",
+          "This number is based on historical records and estimates."
+        ],
+        "final_answer": "28,000,000",
+        "marks": 4,
+        "blooms_level": "Analyze",
+        "source_citation": "The number of deaths during the Reign of Terror is estimated to be between 16,000 and 40,000 people. (Chapter 5, page 20)"
+      },
+      {
+        "question": "What was the amount of debt that France had in 1789?",
+        "solution_steps": [
+          "France had a significant amount of debt in 1789, with estimates ranging from 1.5 billion to 2.5 billion livres.",
+          "This number is based on historical records and estimates."
+        ],
+        "final_answer": "2,000,000,000",
+        "marks": 4,
+        "blooms_level": "Understand",
+        "source_citation": "France had a significant amount of debt in 1789, with estimates ranging from 1.5 billion to 2.5 billion livres. (Chapter 1, page 5)"
+      }
+    ],
+    "total_marks": 50
+  },
+  "learning_gaps": [
+    {
+      "misconception": "The French Revolution was a bloodless and peaceful event.",
+      "why_it_happens": "Students may focus on the ideals of the Enlightenment and the Declaration of the Rights of Man and of the Citizen, which emphasize reason and individual rights, without considering the violent and bloody nature of the Revolution.",
+      "cognitive_friction": "Students may struggle to reconcile the ideals of the Enlightenment with the reality of the Revolution's violence.",
+      "diagnostic_question": "What were some of the most significant events of the French Revolution?",
+      "socratic_question": "How do you think the ideals of the Enlightenment influenced the actions of the revolutionaries?",
+      "severity": "High",
+      "remedial_action": "Use primary sources and images to show the violence and bloodshed of the Revolution, and ask students to reflect on how this contrasts with the ideals of the Enlightenment.",
+      "related_concept": "Enlightenment"
+    },
+    {
+      "misconception": "The French Revolution was solely a response to economic crisis.",
+      "why_it_happens": "Students may focus on the economic grievances of the Third Estate, such as taxation and inequality, without considering the broader social and intellectual factors that contributed to the Revolution.",
+      "cognitive_friction": "Students may struggle to see the Revolution as a complex and multifaceted event, rather than a simple response to economic crisis.",
+      "diagnostic_question": "What were some of the social and intellectual factors that contributed to the French Revolution?",
+      "socratic_question": "How do you think the ideas of the Enlightenment influenced the actions of the revolutionaries?",
+      "severity": "Medium",
+      "remedial_action": "Use a Venn diagram or concept map to show the multiple causes of the French Revolution, and ask students to reflect on how these factors interacted.",
+      "related_concept": "Enlightenment"
+    },
+    {
+      "misconception": "The French Revolution was a failure and had no lasting impact.",
+      "why_it_happens": "Students may focus on the short-term consequences of the Revolution, such as the Reign of Terror and the rise of Napoleon, without considering its long-term impact on modern politics and government.",
+      "cognitive_friction": "Students may struggle to see the Revolution as a turning point in modern history, rather than a failed experiment.",
+      "diagnostic_question": "What were some of the lasting impacts of the French Revolution on modern politics and government?",
+      "socratic_question": "How do you think the ideas of the French Revolution influenced the development of modern democracy?",
+      "severity": "High",
+      "remedial_action": "Use a timeline or graphic organizer to show the long-term impact of the French Revolution on modern politics and government, and ask students to reflect on how this contrasts with their initial understanding.",
+      "related_concept": "Republic"
+    },
+    {
+      "misconception": "Sovereignty is the same as democracy.",
+      "why_it_happens": "Students may confuse the related but distinct concepts of sovereignty and democracy, without considering the nuances of each.",
+      "cognitive_friction": "Students may struggle to see the difference between a system of government where power comes from the people (sovereignty) and a system of government where the people have direct power (democracy).",
+      "diagnostic_question": "What is the difference between sovereignty and democracy?",
+      "socratic_question": "How do you think the concept of sovereignty influenced the development of modern democracy?",
+      "severity": "Medium",
+      "remedial_action": "Use a concept map or Venn diagram to show the relationships between sovereignty, democracy, and republic, and ask students to reflect on how these concepts interact.",
+      "related_concept": "Sovereignty"
+    },
+    {
+      "misconception": "Nationalism is a negative concept.",
+      "why_it_happens": "Students may focus on the negative consequences of nationalism, such as xenophobia and chauvinism, without considering its positive aspects, such as patriotism and civic engagement.",
+      "cognitive_friction": "Students may struggle to see the complexities of nationalism, rather than viewing it as a simple negative concept.",
+      "diagnostic_question": "What are some of the positive and negative aspects of nationalism?",
+      "socratic_question": "How do you think the French Revolution influenced the development of nationalism in modern Europe?",
+      "severity": "Medium",
+      "remedial_action": "Use a graphic organizer or concept map to show the multiple aspects of nationalism, and ask students to reflect on how these interact.",
+      "related_concept": "Nationalism"
+    },
+    {
+      "misconception": "The French Revolution was a single event, rather than a complex and multifaceted process.",
+      "why_it_happens": "Students may focus on the key dates and events of the Revolution, without considering the broader social, intellectual, and economic factors that contributed to it.",
+      "cognitive_friction": "Students may struggle to see the Revolution as a complex and multifaceted event, rather than a simple series of dates and events.",
+      "diagnostic_question": "What were some of the social, intellectual, and economic factors that contributed to the French Revolution?",
+      "socratic_question": "How do you think the ideas of the Enlightenment influenced the actions of the revolutionaries?",
+      "severity": "High",
+      "remedial_action": "Use a timeline or concept map to show the complex and multifaceted nature of the French Revolution, and ask students to reflect on how this contrasts with their initial understanding.",
+      "related_concept": "Enlightenment"
+    },
+    {
+      "misconception": "The French Revolution was a solely French event, rather than a global phenomenon.",
+      "why_it_happens": "Students may focus on the domestic causes and consequences of the Revolution, without considering its global impact and influence.",
+      "cognitive_friction": "Students may struggle to see the Revolution as a global phenomenon, rather than a solely French event.",
+      "diagnostic_question": "What were some of the global impacts of the French Revolution?",
+      "socratic_question": "How do you think the ideas of the French Revolution influenced the development of modern democracy in other countries?",
+      "severity": "Medium",
+      "remedial_action": "Use a map or graphic organizer to show the global impacts of the French Revolution, and ask students to reflect on how this contrasts with their initial understanding.",
+      "related_concept": "Republic"
+    }
+  ],
+  "validation_report": {
+    "overall_passed": true,
+    "total_checks": 10,
+    "passed_checks": 9,
+    "results": [
+      {
+        "check_name": "Schema Completeness",
+        "passed": true,
+        "message": "All required fields present",
+        "details": "[]"
+      },
+      {
+        "check_name": "Learning Objectives Coverage",
+        "passed": false,
+        "message": "5/9 objectives covered in teaching plan",
+        "details": "Uncovered: ['analyze the impact and legacy of the french revolu', 'summarize the main points of the french revolution', 'explain the significance of the storming of the ba', 'analyze the reign of terror and its impact on the ']"
+      },
+      {
+        "check_name": "Content Coverage",
+        "passed": true,
+        "message": "Content generated for 3/3 periods",
+        "details": ""
+      },
+      {
+        "check_name": "Assessment Coverage",
+        "passed": true,
+        "message": "20 assessment items generated",
+        "details": "MCQs: 11, Short: 4, Long: 2, Numerical: 3"
+      },
+      {
+        "check_name": "Activity Diversity",
+        "passed": true,
+        "message": "11 activities with 11 different types",
+        "details": "Types: Group Discussion, Simulation, Demonstration, Role Play, Problem Solving, Debate, Experiment, Think-Pair-Share, Jigsaw, Case Study, Gallery Walk"
+      },
+      {
+        "check_name": "Learning Gap Analysis",
+        "passed": true,
+        "message": "7 learning gaps identified",
+        "details": ""
+      },
+      {
+        "check_name": "Concept Source Grounding",
+        "passed": true,
+        "message": "5/5 concepts grounded in source document (100%)",
+        "details": "All concepts found in source"
+      },
+      {
+        "check_name": "Content Source Grounding",
+        "passed": true,
+        "message": "3/3 teacher scripts are grounded in source (100%)",
+        "details": "Validates that generated teaching content references concepts from the original document"
+      },
+      {
+        "check_name": "Period Content Consistency",
+        "passed": true,
+        "message": "All periods have complete content",
+        "details": ""
+      },
+      {
+        "check_name": "Assessment Source Grounding",
+        "passed": true,
+        "message": "15/17 assessment questions reference source content (88%)",
+        "details": "Validates that assessment questions test knowledge from the original document, not hallucinated content"
+      }
+    ],
+    "timestamp": "2026-08-02T17:13:22.928951"
+  },
+  "pipeline_metadata": {
+    "model": "Multi-Provider Hybrid Architecture (Groq / Gemini / Nvidia)",
+    "pipeline_version": "1.0",
+    "total_periods": 3,
+    "total_activities": 11,
+    "total_assessments": 20,
+    "total_learning_gaps": 7,
+    "validation_passed": true
+  }
+}
