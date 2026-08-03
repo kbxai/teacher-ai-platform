@@ -1,8 +1,4 @@
 # Teacher AI Platform — AI Engineer Technical Assessment
-
-> **IIT Mandi AI Engineer Internship Task**  
-> An end-to-end multi-agent AI system that converts raw educational documents (PDF, DOCX, PPT, TXT) into a structured, classroom-ready **Teacher Knowledge Package (TKP)**.
-
 ---
 
 ## Architecture Overview
@@ -62,7 +58,7 @@ graph TD
 
 ### 2. Clone & Install Dependencies
 ```bash
-git clone https://github.com/YOUR_USERNAME/teacher-ai-platform.git
+git clone https://github.com/kbxai/teacher-ai-platform.git
 cd teacher-ai-platform
 
 # Install backend dependencies
@@ -73,6 +69,9 @@ pip install -r backend/requirements.txt
 Create a `.env` file in the root directory:
 ```env
 GEMINI_API_KEY=your_actual_gemini_api_key_here
+GROQ_API_KEY=your_actual_groq_api_key_here
+NVIDIA_API_KEY=your_actual_nvidia_api_key_here
+
 ```
 
 ### 4. Run the Backend API Server
@@ -128,8 +127,8 @@ teacher-ai/
 
 ## Live Prototype & Deployment
 
-* **Deployed Web Prototype**: [Render / Streamlit Cloud URL]
-* **Source Code**: [GitHub Repository URL]
+* **Deployed Web Prototype**: [aixteacher](https://aixteacher.streamlit.app/)
+* **Source Code**: [GitHub Repository URL](https://github.com/kbxai/teacher-ai-platform)
 
 ---
 
