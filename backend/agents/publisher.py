@@ -1,3 +1,5 @@
+# This file compiles all generated educational components into a single TeacherKnowledgePackage JSON output file.
+
 import json
 import os
 from datetime import datetime
@@ -5,6 +7,7 @@ from backend.schemas.models import TeacherKnowledgePackage
 from backend.config import OUTPUT_DIR
 
 
+# This function builds the complete TKP schema object and saves it as a formatted JSON file.
 def publish_tkp(document, metadata, knowledge, teaching_plan,
                 period_contents, activities, assessments, learning_gaps,
                 validation_report):

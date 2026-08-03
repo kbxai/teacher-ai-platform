@@ -1,3 +1,5 @@
+# This file generates detailed teacher scripts, entry/exit tickets, and blackboard notes for each period.
+
 import asyncio
 import time
 from backend.agents.llm_utils import call_llm
@@ -8,6 +10,7 @@ from backend.schemas.models import (
 )
 
 
+# This function generates comprehensive content for a single period plan using LLM.
 def generate_period_content(period_plan, metadata, knowledge, user_context=None):
     ctx = user_context or {}
     knowledge_context = ""
@@ -98,10 +101,12 @@ def generate_period_content(period_plan, metadata, knowledge, user_context=None)
     )
 
 
+# Asynchronous wrapper to run single period content generation in a separate thread.
 async def generate_period_content_async(period_plan, metadata, knowledge, user_context=None):
     return await asyncio.to_thread(generate_period_content, period_plan, metadata, knowledge, user_context)
 
 
+# Asynchronous manager that generates content for all periods in parallel using a concurrency semaphore.
 async def generate_all_period_contents_async(teaching_plan, metadata, knowledge, user_context=None):
     sem = asyncio.Semaphore(2)
 

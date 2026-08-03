@@ -1,3 +1,5 @@
+# This file loads environment variables from .env file and sets up configuration settings like API keys and output directories.
+
 import os
 
 env_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), ".env")

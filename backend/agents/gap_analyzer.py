@@ -1,8 +1,11 @@
+# This file analyzes student misconceptions and generates diagnostic questions and remedial actions.
+
 from backend.agents.llm_utils import call_llm
 from backend.prompts.templates import GAP_ANALYSIS_PROMPT
 from backend.schemas.models import LearningGap
 
 
+# This function prompts LLM to analyze cognitive friction and return a list of LearningGap models.
 def analyze_learning_gaps(metadata, knowledge):
     concepts_text = "\n".join(
         [f"- {con.name}: {con.explanation}" for con in knowledge.concepts]

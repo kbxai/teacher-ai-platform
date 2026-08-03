@@ -1,3 +1,5 @@
+# This file orchestrates the 10-stage AI processing pipeline asynchronously with progress updates.
+
 import asyncio
 import os
 import time
@@ -21,7 +23,9 @@ job_store = {}
 STAGE_DELAY = 0.5
 
 
+# This class tracks job state, progress percentage, stage timers, and event queues for pipeline runs.
 class PipelineJob:
+    # This constructor initializes job attributes and sets up an async queue for live streaming.
     def __init__(self, job_id, file_path, user_context=None):
         self.job_id = job_id
         self.file_path = file_path
@@ -39,6 +43,7 @@ class PipelineJob:
         self.stage_times = {}
 
 
+# This function pushes progress updates and status messages into the job async queue.
 async def send_progress(job, stage, progress, message):
     job.current_stage = stage
     job.progress = progress
@@ -52,6 +57,7 @@ async def send_progress(job, stage, progress, message):
     logger.info("pipeline_progress", stage=stage, progress=progress, message=message)
 
 
+# Main async function that executes all 10 pipeline stages, parallelizing agents where possible.
 async def run_pipeline(job):
     job.status = "running"
     job.start_time = time.time()

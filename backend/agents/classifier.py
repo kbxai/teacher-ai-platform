@@ -1,8 +1,11 @@
+# This file classifies the uploaded document to extract educational metadata like subject, grade level, and difficulty.
+
 from backend.agents.llm_utils import call_llm
 from backend.prompts.templates import CLASSIFICATION_PROMPT
 from backend.schemas.models import EducationalMetadata
 
 
+# This function sends the document text to LLM and returns validated EducationalMetadata.
 def classify_document(document_structure, user_context=None):
     ctx = user_context or {}
     text = document_structure.raw_text[:8000]

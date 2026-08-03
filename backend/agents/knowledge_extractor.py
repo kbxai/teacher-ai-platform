@@ -1,3 +1,5 @@
+# This file extracts structured knowledge elements like learning objectives, concepts, definitions, and formulas from the document.
+
 from backend.agents.llm_utils import call_llm
 from backend.prompts.templates import KNOWLEDGE_EXTRACTION_PROMPT
 from backend.schemas.models import (
@@ -6,6 +8,7 @@ from backend.schemas.models import (
 )
 
 
+# This function sends text to LLM and returns a populated KnowledgeGraph schema.
 def extract_knowledge(document_structure, metadata):
     text = document_structure.raw_text[:100000]
 

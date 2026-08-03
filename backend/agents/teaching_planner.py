@@ -1,8 +1,11 @@
+# This file generates a multi-period pedagogical teaching plan based on metadata and extracted knowledge.
+
 from backend.agents.llm_utils import call_llm
 from backend.prompts.templates import TEACHING_PLANNER_PROMPT
 from backend.schemas.models import TeachingPlan, PeriodPlan
 
 
+# This function calculates period allocation and returns a structured TeachingPlan.
 def create_teaching_plan(metadata, knowledge, user_context=None):
     ctx = user_context or {}
 

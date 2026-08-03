@@ -1,3 +1,5 @@
+# This file extracts text, headings, tables, and math equations from PDF, DOCX, PPTX, and TXT files.
+
 import os
 import re
 import fitz
@@ -6,6 +8,7 @@ from pptx import Presentation
 from backend.schemas.models import DocumentStructure, Section, TableData
 
 
+# This function reads PDF files and extracts text, heading levels using font sizes, tables, and math equations.
 def parse_pdf(file_path):
     sections = []
     tables = []
@@ -82,6 +85,7 @@ def parse_pdf(file_path):
     return full_text, sections, tables, equations
 
 
+# This function reads Word DOCX files and extracts paragraphs, headings, and tables.
 def parse_docx(file_path):
     doc = Document(file_path)
     sections = []
@@ -131,6 +135,7 @@ def parse_docx(file_path):
     return full_text, sections, tables, []
 
 
+# This function reads PowerPoint PPTX files slide by slide and extracts titles and text blocks.
 def parse_pptx(file_path):
     prs = Presentation(file_path)
     sections = []
@@ -163,6 +168,7 @@ def parse_pptx(file_path):
     return full_text, sections, [], []
 
 
+# This function reads plain text files and splits them into logical sections.
 def parse_txt(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
         text = f.read()
@@ -189,6 +195,7 @@ def parse_txt(file_path):
     return text, sections, [], []
 
 
+# Main entry function that checks file extension and calls the right parser function.
 def parse_document(file_path):
     filename = os.path.basename(file_path)
     extension = os.path.splitext(filename)[1].lower()

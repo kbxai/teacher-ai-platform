@@ -1,3 +1,5 @@
+# This file provides the interactive Streamlit user interface for uploading documents, monitoring live pipeline progress, viewing TKPs, and downloading exports.
+
 import sys
 import os
 import asyncio

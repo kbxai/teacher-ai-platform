@@ -1,7 +1,10 @@
+# This file performs automated validation, quality checks, and source grounding audits on the generated TKP package.
+
 from backend.schemas.models import ValidationResult, ValidationReport
 from datetime import datetime
 
 
+# This function runs all 10 automated quality checks and returns a comprehensive ValidationReport.
 def validate_tkp(document, metadata, knowledge, teaching_plan,
                  period_contents, activities, assessments, learning_gaps):
     results = []
@@ -28,6 +31,7 @@ def validate_tkp(document, metadata, knowledge, teaching_plan,
     )
 
 
+# This check verifies that all required metadata, objectives, concepts, and plan periods exist.
 def check_schema_completeness(metadata, knowledge, teaching_plan):
     issues = []
     if not metadata.subject:
@@ -49,6 +53,7 @@ def check_schema_completeness(metadata, knowledge, teaching_plan):
     )
 
 
+# This check verifies that all learning objectives are assigned across teaching plan periods.
 def check_objectives_coverage(knowledge, teaching_plan):
     all_objectives = [obj.objective.lower() for obj in knowledge.learning_objectives]
     covered_objectives = []
@@ -75,6 +80,7 @@ def check_objectives_coverage(knowledge, teaching_plan):
     )
 
 
+# This check verifies that content is generated for all planned periods.
 def check_content_coverage(teaching_plan, period_contents):
     plan_periods = len(teaching_plan.periods)
     content_periods = len(period_contents)
@@ -87,6 +93,7 @@ def check_content_coverage(teaching_plan, period_contents):
     )
 
 
+# This check verifies that a minimum number of assessment questions have been generated.
 def check_assessment_coverage(knowledge, assessments):
     total_questions = (
         len(assessments.mcqs) +
@@ -103,6 +110,7 @@ def check_assessment_coverage(knowledge, assessments):
     )
 
 
+# This check verifies that classroom activities cover at least 3 distinct activity types.
 def check_activity_diversity(activities):
     if not activities:
         return ValidationResult(
@@ -122,6 +130,7 @@ def check_activity_diversity(activities):
     )
 
 
+# This check verifies that student learning gaps and misconceptions are identified.
 def check_gap_analysis(learning_gaps):
     return ValidationResult(
         check_name="Learning Gap Analysis",
@@ -131,6 +140,7 @@ def check_gap_analysis(learning_gaps):
     )
 
 
+# This check performs fuzzy substring matching to verify concepts exist in the source document.
 def check_concept_grounding(document, knowledge):
     doc_text = document.raw_text.lower()
     grounded = 0
@@ -159,6 +169,7 @@ def check_concept_grounding(document, knowledge):
     )
 
 
+# This check verifies that generated teacher scripts reference words from the source document.
 def check_content_grounding(document, period_contents):
     doc_text = document.raw_text.lower()
     doc_words = set(doc_text.split())
@@ -199,6 +210,7 @@ def check_content_grounding(document, period_contents):
     )
 
 
+# This check verifies that assessment questions test knowledge present in the source document.
 def check_assessment_grounding(document, assessments):
     doc_text = document.raw_text.lower()
     total = 0
@@ -231,6 +243,7 @@ def check_assessment_grounding(document, assessments):
     )
 
 
+# This check verifies that each period has complete scripts, entry tickets, and exit tickets.
 def check_period_consistency(teaching_plan, period_contents):
     issues = []
 

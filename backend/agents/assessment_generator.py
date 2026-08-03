@@ -1,3 +1,5 @@
+# This file generates MCQs, short answer, long answer, and numerical questions with marking schemes.
+
 from backend.agents.llm_utils import call_llm
 from backend.prompts.templates import ASSESSMENT_GENERATION_PROMPT
 from backend.schemas.models import (
@@ -5,6 +7,7 @@ from backend.schemas.models import (
 )
 
 
+# This function prompts LLM to generate an assessment package validated against Pydantic models.
 def generate_assessments(metadata, knowledge):
     objectives_text = "\n".join(
         [f"- {obj.objective} (Bloom's: {obj.blooms_level})"

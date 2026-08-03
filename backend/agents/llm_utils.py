@@ -1,3 +1,5 @@
+# This file manages calling different LLM providers like Groq, Gemini, and NVIDIA with failover and retry logic.
+
 import json
 import time
 import re
@@ -13,6 +15,7 @@ from backend.config import (
 gemini_client = None
 
 
+# This function initializes and returns the Google Gemini API client instance.
 def get_gemini_client():
     global gemini_client
     if gemini_client is None and GEMINI_API_KEY:
@@ -23,6 +26,7 @@ def get_gemini_client():
     return gemini_client
 
 
+# This function strips markdown code block backticks from LLM output strings.
 def clean_json_response(text):
     text = text.strip()
     if text.startswith("```json"):
@@ -35,6 +39,7 @@ def clean_json_response(text):
     return text
 
 
+# This function safely parses JSON from raw LLM text using regex fallback if needed.
 def extract_json(text):
     cleaned = clean_json_response(text)
     try:
@@ -56,6 +61,7 @@ def extract_json(text):
     return None
 
 
+# This function sends a prompt to the Groq API and returns parsed JSON.
 def call_groq(prompt, max_tokens=8000):
     if not GROQ_API_KEY:
         raise Exception("Groq API key not configured")
@@ -89,6 +95,7 @@ def call_groq(prompt, max_tokens=8000):
     raise json.JSONDecodeError("Failed to parse", text, 0)
 
 
+# This function sends a prompt to Google Gemini API and returns parsed JSON.
 def call_gemini(prompt, max_tokens=8000):
     client = get_gemini_client()
     if not client:
@@ -113,6 +120,7 @@ def call_gemini(prompt, max_tokens=8000):
     raise json.JSONDecodeError("Failed to parse", text, 0)
 
 
+# This function sends a prompt to NVIDIA NIM API and returns parsed JSON.
 def call_nvidia(prompt, max_tokens=8000):
     if not NVIDIA_API_KEY:
         raise Exception("Nvidia API key not configured")
@@ -147,6 +155,7 @@ def call_nvidia(prompt, max_tokens=8000):
     raise json.JSONDecodeError("Failed to parse", text, 0)
 
 
+# This function extracts retry delay seconds from rate limit error messages.
 def get_retry_seconds(error_str):
     match = re.search(r'retry in (\d+(?:\.\d+)?)s', error_str)
     if match:
@@ -154,6 +163,7 @@ def get_retry_seconds(error_str):
     return 5
 
 
+# This function checks configured API keys and returns a list of active LLM providers.
 def get_available_providers():
     provs = []
     if GROQ_API_KEY:
@@ -165,6 +175,7 @@ def get_available_providers():
     return provs
 
 
+# Main entry function that calls LLM providers with automatic 3-tier failover and retries.
 def call_llm(prompt, max_tokens=8000):
     active_providers = get_available_providers()
     last_error = None

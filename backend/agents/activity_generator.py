@@ -1,8 +1,11 @@
+# This file generates classroom activities, experiments, and exercises mapped to the teaching plan.
+
 from backend.agents.llm_utils import call_llm
 from backend.prompts.templates import ACTIVITY_GENERATION_PROMPT
 from backend.schemas.models import Activity
 
 
+# This function prompts LLM to generate a list of interactive classroom activities.
 def generate_activities(metadata, knowledge, teaching_plan):
     concepts_text = "\n".join(
         [f"- {con.name}: {con.definition}" for con in knowledge.concepts]

@@ -1,3 +1,5 @@
+# This file renders TKP JSON data into print-optimized HTML documents for lesson plans, teacher guides, and assessment books.
+
 COMMON_CSS = """
     @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap');
     body {
@@ -197,6 +199,8 @@ COMMON_CSS = """
     }
 """
 
+
+# This function builds an HTML document for the multi-period lesson plan.
 def generate_lesson_plan_html(tkp):
     meta = tkp.get("educational_metadata", {})
     tp = tkp.get("teaching_plan", {})
@@ -335,6 +339,7 @@ def generate_lesson_plan_html(tkp):
     return html
 
 
+# This function builds an HTML document for the teacher guide including activities and misconceptions.
 def generate_teacher_guide_html(tkp):
     meta = tkp.get("educational_metadata", {})
     kg = tkp.get("knowledge_graph", {})
@@ -444,6 +449,7 @@ def generate_teacher_guide_html(tkp):
     return html
 
 
+# This function builds an HTML document for the assessment book containing questions, rubrics, and solutions.
 def generate_assessment_book_html(tkp):
     meta = tkp.get("educational_metadata", {})
     assessments = tkp.get("assessments", {})

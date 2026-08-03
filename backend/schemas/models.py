@@ -1,3 +1,5 @@
+# This file defines all the Pydantic data schemas used to validate inputs and outputs across the AI pipeline.
+
 from pydantic import BaseModel, Field, ConfigDict
 from typing import Optional
 from datetime import datetime

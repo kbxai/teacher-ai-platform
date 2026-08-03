@@ -1,3 +1,5 @@
+# This file defines the FastAPI REST server endpoints for uploading documents, streaming SSE progress, and getting results.
+
 import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -27,11 +29,13 @@ app.add_middleware(
 )
 
 
+# API endpoint to check if backend server is healthy and running.
 @app.get("/health")
 async def health_check():
     return {"status": "healthy", "version": "1.0.0"}
 
 
+# API endpoint to handle document upload and start background pipeline execution.
 @app.post("/upload")
 async def upload_document(
     file: UploadFile = File(...),
@@ -80,6 +84,7 @@ async def upload_document(
     return {"job_id": job_id, "filename": file.filename, "status": "started", "user_context": user_context}
 
 
+# SSE endpoint to stream real-time pipeline execution progress to frontend clients.
 @app.get("/stream/{job_id}")
 async def stream_progress(job_id: str):
     if job_id not in job_store:
@@ -110,6 +115,7 @@ async def stream_progress(job_id: str):
     )
 
 
+# API endpoint to retrieve completed TKP result data and stage timing stats.
 @app.get("/result/{job_id}")
 async def get_result(job_id: str):
     if job_id not in job_store:
@@ -143,6 +149,7 @@ async def get_result(job_id: str):
     return {"status": job.status}
 
 
+# API endpoint to list all currently tracked pipeline jobs and their statuses.
 @app.get("/jobs")
 async def list_jobs():
     jobs = []
