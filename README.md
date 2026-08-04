@@ -131,14 +131,3 @@ teacher-ai/
 * **Source Code**: [GitHub Repository URL](https://github.com/kbxai/teacher-ai-platform)
 
 ---
-
-## Evaluation Criteria Alignment
-
-| Evaluation Criteria | Weight | Implementation Details |
-| :--- | :--- | :--- |
-| **Content Generation & Versatility** | 25% | Multi-subject adaptability (STEM equations vs Humanities narratives), diverse activities, full assessments with rubrics. |
-| **Educational Understanding** | 20% | Automatic classification, Bloom's Taxonomy tagging, structured knowledge graphs. |
-| **Teaching Planning** | 20% | Pedagogically sequenced multi-period breakdown with duration allocations. |
-| **Document Intelligence** | 15% | Multi-format parser (PDF, DOCX, PPTX, TXT) preserving section hierarchy and mathematical LaTeX formatting. |
-| **Engineering & Architecture** | 15% | Asynchronous multi-agent execution, SSE progress streaming, 8-point automated validation engine. |
-| **Documentation & Demo** | 5% | Streamlit dashboard UI, clean architecture documentation, pre-generated sample outputs. |
